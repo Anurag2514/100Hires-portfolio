@@ -25,6 +25,5 @@ I was not able to find the extensions marketplace in the Cursor initially. This 
 Issue 2: Clone repository button not working
 When I was trying to clone the GitHub repository in the cursor, initially I was not able to find the 'clone repository' option under the File section, as per the tutorials. However, after exploring the new interface of Cursor, I found the ‘Clone Repo’ button, which was right in front of the interface, along with 'Open Folder' and 'Connect via SSH' options. But the Clone Repo button was not responding at all, unlike the other two buttons, which were responding quite well. Upon searching for the issue on Google, I found that it was necessary to install Git on the PC before trying to open the repository. Up until now, I had only created the GitHub account and the repository through the website. After installing Git, the Clone Repo button began working, and I was able to open the '100Hires Portfolio' repository.
 
-
-
-
+Issue 3: Author identity unknown
+When I tried to complete the portfolio setup through Terminal, I got the error message 'Author identity unknown' followed by 'Please tell me who you are' and additional messages. To solve the issue, I took a screenshot of the issue and asked ChatGPT for the solution. It was noted that I needed to configure my name and email before creating a commit. After following the necessary commands provided by ChatGPT, I was able to create a commit and push to GitHub by authorising the access through the browser.
