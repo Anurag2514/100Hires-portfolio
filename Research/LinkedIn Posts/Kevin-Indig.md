@@ -1,4 +1,4 @@
-# Kevin Indig - LinkedIn Research
+# Kevin Indig - Online Post
 
 ## Post 1
 
@@ -57,35 +57,3 @@ AI-assisted vs. AI-generated content requires org-wide understanding of quality 
 
 Translation role applies to content ops
 Content producers must explain to executives why fewer pages with higher retrieval value may outperform a high-volume AI content farm — and get buy-in before changing production models.
-
----
-
-## Post 2
-
-Date:
-
-URL:
-
-Topic:
-
-Summary:
-
-Key Insight:
-
-Application to AI SEO:
-
----
-
-## Post 3
-
-Date:
-
-URL:
-
-Topic:
-
-Summary:
-
-Key Insight:
-
-Application to AI SEO:
