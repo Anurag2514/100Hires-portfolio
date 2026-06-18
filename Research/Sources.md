@@ -126,3 +126,59 @@ Ross Simmonds is one of the leading voices in content distribution, brand amplif
 - [x] Source 1 Analysis Completed
 - [x] Source 2 Analysis Completed
 - [x] Source 3 Analysis Completed
+
+
+## Expert 5: Amanda Natividad
+
+### Why Selected
+
+Amanda Natividad is one of the leading voices in Zero-Click Marketing, audience development, and AI-era content strategy. Her work focuses on helping brands build visibility, authority, and trust in environments where users increasingly consume information without clicking through to websites. Her perspective is particularly valuable because she argues that successful AI optimization is largely an extension of strong marketing fundamentals rather than a completely new discipline.
+
+### Primary Sources
+
+LinkedIn:
+https://www.linkedin.com/in/amandanat/
+
+Newsletter:
+https://amandanat.substack.com
+
+Organization:
+SparkToro
+
+### Areas of Expertise
+
+* Zero-Click Marketing
+* AI Search Visibility
+* GEO (Generative Engine Optimization)
+* Content Marketing
+* Audience Development
+* Brand Building
+* Thought Leadership
+
+### Research Materials Collected
+
+1. AI Optimization Is Mostly Just Good Marketing (LinkedIn Post + Newsletter Article)
+2. GEO: The SEO Strategy That Actually Works When AI Search Changes Everything
+3. [Reserved for Third Amanda Source]
+
+### Key Themes Identified
+
+* AI Optimization
+* Zero-Click Marketing
+* Brand Visibility
+* Audience Trust
+* Authority Building
+* Content Credibility
+* GEO Strategy
+
+### Key Insight
+
+Amanda's central argument is that AI optimization is not a completely new marketing discipline. The same principles that have historically driven successful marketing—authority, audience trust, useful content, and brand recognition—are increasingly becoming the factors that influence AI search visibility.
+
+### Research Status
+
+* [x] Expert Profile Created
+* [x] Source 1 Analysis Completed
+* [ ] Source 2 Analysis Completed
+* [ ] Source 3 Analysis Completed
+* [ ] Comparative Insights Added
