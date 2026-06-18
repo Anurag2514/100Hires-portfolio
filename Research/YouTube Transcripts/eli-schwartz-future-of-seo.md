@@ -109,6 +109,24 @@ Bottom line for your research
 For AI-Powered SEO Content Production, this source argues the production problem is not “how to generate more AI content faster” but whether the organization produces citable, conversion-linked product experiences with the right talent and metrics. That makes it essential alongside Indig’s operational playbook and Schwartz’s AEO article’s hiring framework — together they define build, measure, and staff for AI-era organic growth.
 
 
+## My Observations
+
+After reviewing all three Eli Schwartz sources, several consistent themes emerged:
+
+1. SEO should be driven by customer needs rather than keyword opportunities.
+
+2. AI search does not eliminate the importance of SEO but changes how value is delivered.
+
+3. User intent remains the most important factor in successful content creation.
+
+4. Organizations should focus on solving user problems instead of publishing content solely for rankings.
+
+5. Product-Led SEO appears well-positioned for AI-driven search environments because it prioritizes customer value over traffic generation.
+
+Compared with Kevin Indig, Eli Schwartz places greater emphasis on customer-centric strategy and organizational alignment, while Kevin focuses more heavily on AI visibility, search evolution, and measurement frameworks.
+
+
+
 
 ### Transcript
 
