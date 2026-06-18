@@ -182,3 +182,46 @@ Amanda's central argument is that AI optimization is not a completely new market
 * [x] Source 2 Analysis Completed
 * [x] Source 3 Analysis Completed
 * [x] Comparative Insights Added
+
+
+
+## Expert 6: Tom Critchlow
+
+### Why Selected
+
+Tom Critchlow is one of the leading strategic thinkers in AI search, brand perception, and organizational adaptation. His work focuses on how AI systems influence brand awareness, recommendations, and purchasing decisions.
+
+### Areas of Expertise
+
+- AI Search Strategy
+- Brand Perception
+- Share of Model
+- AI-Assisted Content Production
+- SEO Leadership
+- Marketing Strategy
+
+### Research Materials Collected
+
+1. Why AI Search Matters
+2. Share of Model and AI Brand Visibility
+3. SEO in the AI Era
+
+### Key Themes Identified
+
+- Share of Model
+- AI Recommendations
+- Brand Sentiment
+- AI Search Strategy
+- AI Workflows
+- Reputation Management
+
+### Key Insight
+
+Tom Critchlow argues that AI search is transforming search engines into recommendation engines. Organizations must therefore focus not only on visibility, but also on how AI systems describe, compare, and recommend their brands. :contentReference[oaicite:6]{index=6}
+
+### Research Status
+
+- [x] Expert Profile Created
+- [x] Source 1 Analysis Completed
+- [ ] Source 2 Analysis Completed
+- [ ] Source 3 Analysis Completed
