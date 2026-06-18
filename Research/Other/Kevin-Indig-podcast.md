@@ -70,6 +70,7 @@ Build topic/intent clusters tied to buyer personas and journey stages, not keywo
 Coordinate SEO with PR, social, and community (Reddit, LinkedIn) since LLMs heavily cite those sources.
 Use AI to scale research and briefs; keep humans on review, E-E-A-T, and final editorial quality.
 Start planning for agentic readiness (schema, checkout flows, trust) without abandoning classic search — it still drives most conversions today.
+
 ## My Observations
 
 After reviewing Kevin Indig's podcast, three important themes emerged:
@@ -82,7 +83,10 @@ After reviewing Kevin Indig's podcast, three important themes emerged:
 
 These findings suggest that successful AI-powered SEO content production requires focusing on authority, entity recognition, and topical expertise rather than simply publishing large volumes of content.
 
+
 Transcript
+
+
 Chapter 1: Intro
 0:022 secondsHi, I am Gianluca Fiorelli and welcome back to The Search Session.
 Chapter 2: Meet Our Guest: Kevin Indig
