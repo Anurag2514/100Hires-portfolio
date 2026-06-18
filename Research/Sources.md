@@ -97,3 +97,32 @@ Eli Schwartz is one of the leading authorities on Product-Led SEO and modern org
 - [x] GEO Research Analysis Completed
 - [x] Video Analysis Completed
 - [x] Key Insights Extracted
+
+
+## Expert 4: Ross Simmonds
+
+### Why Selected
+
+Ross Simmonds is one of the leading voices in content distribution, brand amplification, and AI-era content marketing. His work focuses on how businesses can increase visibility, authority, and reach through strategic content promotion and distribution.
+
+### Areas of Expertise
+
+- Content Distribution
+- Content Marketing
+- AI Search Visibility
+- Brand Authority
+- AI Citations
+- Content Amplification
+
+### Research Materials Collected
+
+1. Branded vs Unbranded AI Citations
+2. Content Distribution in the Age of AI
+3. AI Agents Are Reshaping SEO Work
+
+### Research Status
+
+- [x] Expert Profile Created
+- [ ] Source 1 Analysis Completed
+- [ ] Source 2 Analysis Completed
+- [ ] Source 3 Analysis Completed
