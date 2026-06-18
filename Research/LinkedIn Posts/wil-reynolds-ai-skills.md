@@ -92,11 +92,10 @@ Build AI-assisted research workflows
 Use AI to analyze transcripts, reports, Slack conversations, customer interviews, and historical performance data.
 
 8. How Does This Perspective Differ from Kevin Indig and Eli Schwartz?
-| Expert       | Primary Focus                                     | Perspective on AI-Powered SEO Content Production                                                                                        |
-| ------------ | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Wil Reynolds | Human differentiation in an AI world              | Focuses on identifying what expertise is already in AI and building advantages through proprietary data and cross-functional knowledge. |
-| Kevin Indig  | Information gain and competitive content strategy | Emphasizes creating content with unique insights and information that search engines and AI systems cannot find elsewhere.              |
-| Eli Schwartz | Product-led SEO                                   | Focuses on solving user problems through product and business strategy rather than scaling content production.                          |
+Expert	Primary Focus	Perspective on AI-Powered SEO Content Production
+Wil Reynolds	Human differentiation in an AI world	Focuses on identifying what expertise is already in AI and building advantages through proprietary data and cross-functional knowledge.
+Kevin Indig	Information gain and competitive content strategy	Emphasizes creating content with unique insights and information that search engines and AI systems cannot find elsewhere.
+Eli Schwartz	Product-led SEO	Focuses on solving user problems through product and business strategy rather than scaling content production.
 
 
 Key Distinction
