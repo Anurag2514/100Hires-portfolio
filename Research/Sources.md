@@ -223,5 +223,5 @@ Tom Critchlow argues that AI search is transforming search engines into recommen
 
 - [x] Expert Profile Created
 - [x] Source 1 Analysis Completed
-- [ ] Source 2 Analysis Completed
+- [x] Source 2 Analysis Completed
 - [ ] Source 3 Analysis Completed
