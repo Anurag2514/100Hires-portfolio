@@ -125,4 +125,4 @@ Ross Simmonds is one of the leading voices in content distribution, brand amplif
 - [x] Expert Profile Created
 - [x] Source 1 Analysis Completed
 - [x] Source 2 Analysis Completed
-- [ ] Source 3 Analysis Completed
+- [x] Source 3 Analysis Completed
