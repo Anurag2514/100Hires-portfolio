@@ -27,3 +27,5 @@ When I was trying to clone the GitHub repository in the cursor, initially I was 
 
 Issue 3: Author identity unknown
 When I tried to complete the portfolio setup through Terminal, I got the error message 'Author identity unknown' followed by 'Please tell me who you are' and additional messages. To solve the issue, I took a screenshot of the issue and asked ChatGPT for the solution. It was noted that I needed to configure my name and email before creating a commit. After following the necessary commands provided by ChatGPT, I was able to create a commit and push to GitHub by authorising the access through the browser.
+
+New
