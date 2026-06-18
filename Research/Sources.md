@@ -67,8 +67,8 @@ Eli Schwartz is one of the leading authorities on Product-Led SEO and modern org
 
 * [x] Expert Profile Created
 * [x] Sources Identified
-* [ ] Article Analysis Completed
-* [ ] Podcast Analysis Completed
+* [x] Article Analysis Completed
+* [x] Podcast Analysis Completed
 * [ ] Video Analysis Completed
 * [ ] Key Insights Extracted
 * [ ] Comparative Analysis Completed
