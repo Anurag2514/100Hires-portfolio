@@ -71,3 +71,29 @@ Eli Schwartz is one of the leading authorities on Product-Led SEO and modern org
 * [x] Podcast Analysis Completed
 * [x] Video Analysis Completed
 * [x] Key Insights Extracted
+
+
+## Expert 3: Wil Reynolds
+
+### Research Materials Collected
+
+1. LinkedIn Post - AI Skills and Knowledge Gaps
+2. LinkedIn Post - What If The Best GEO Strategy Is The One You Stopped Investing In?
+3. YouTube: The SEO Industry Is Obsessed With The Wrong AI Metric
+
+### Key Themes Identified
+
+- Evidence-Based SEO
+- Trust and Reputation
+- Business Outcomes
+- GEO Skepticism
+- Human Expertise
+- Experimentation
+
+### Research Status
+
+- [x] Expert Profile Created
+- [x] LinkedIn Analysis Completed
+- [x] GEO Research Analysis Completed
+- [x] Video Analysis Completed
+- [x] Key Insights Extracted
