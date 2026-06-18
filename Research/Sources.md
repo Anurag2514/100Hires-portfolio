@@ -8,11 +8,10 @@ Kevin Indig is one of the leading voices in modern SEO and AI search visibility.
 
 ### Primary Sources
 
-LinkedIn:
-https://www.linkedin.com/in/kevinindig/
+Online:
+https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/
 
-Website:
-https://www.kevin-indig.com/
+YouTube: https://www.youtube.com/watch?v=AqAoKGftsSE
 
 Newsletter:
 Growth Memo
@@ -27,7 +26,7 @@ Areas of Expertise:
 
 ### Research Status
 
-* [ ] LinkedIn Posts Collected
+* [ ] Posts Collected
 * [ ] YouTube Content Collected
 * [ ] Transcript Analysis Completed
 * [ ] Key Insights Extracted
