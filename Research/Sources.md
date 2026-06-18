@@ -12,9 +12,7 @@ Online:
 https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/
 
 YouTube: https://www.youtube.com/watch?v=AqAoKGftsSE
-
-Newsletter:
-Growth Memo
+https://www.youtube.com/watch?v=jQXvbeYF5go
 
 Areas of Expertise:
 
@@ -26,7 +24,7 @@ Areas of Expertise:
 
 ### Research Status
 
-* [ ] Posts Collected
-* [ ] YouTube Content Collected
-* [ ] Transcript Analysis Completed
-* [ ] Key Insights Extracted
+* [x] Posts Collected
+* [x] YouTube Content Collected
+* [x] Transcript Analysis Completed
+* [x] Key Insights Extracted
