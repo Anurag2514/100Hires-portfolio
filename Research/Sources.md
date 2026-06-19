@@ -269,3 +269,47 @@ Bernard Huang argues that AI optimization is fundamentally about helping AI syst
 * [x] Source 2 Analysis Completed
 * [x] Source 3 Analysis Completed
 * [x] Comparative Insights Added
+
+
+## Expert 8: Cindy Krum
+
+### Why Selected
+
+Cindy Krum is one of the most influential voices in mobile-first indexing, entity SEO, and AI search behavior. Her recent work focuses on how AI systems reshape search journeys, user intent, and content discovery.
+
+### Areas of Expertise
+
+* AI Search Journeys
+* Entity SEO
+* User Intent
+* Query Fan-Out
+* Mobile Search
+* Search Evolution
+* AI Discovery
+
+### Research Materials Collected
+
+1. Google's AI Search Journeys Are Reshaping SEO
+2. [Reserved for Second Cindy Source]
+3. [Reserved for Third Cindy Source]
+
+### Key Themes Identified
+
+* AI Search Journeys
+* Query Fan-Out
+* Entity SEO
+* User Intent Evolution
+* AI Discovery
+* Search Behavior
+* Search Evolution
+
+### Key Insight
+
+Cindy Krum argues that AI search is shifting optimization away from individual keywords and toward complete information journeys. Brands must understand how AI systems guide users through interconnected questions and decision-making processes.
+
+### Research Status
+
+* [x] Expert Profile Created
+* [x] Source 1 Analysis Completed
+* [ ] Source 2 Analysis Completed
+* [ ] Source 3 Analysis Completed
