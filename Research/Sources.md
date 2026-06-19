@@ -266,6 +266,6 @@ Bernard Huang argues that AI optimization is fundamentally about helping AI syst
 
 * [x] Expert Profile Created
 * [x] Source 1 Analysis Completed
-* [ ] Source 2 Analysis Completed
-* [ ] Source 3 Analysis Completed
-* [ ] Comparative Insights Added
+* [x] Source 2 Analysis Completed
+* [x] Source 3 Analysis Completed
+* [x] Comparative Insights Added
