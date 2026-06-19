@@ -8,13 +8,9 @@ Kevin Indig is one of the leading voices in modern SEO and AI search visibility.
 
 ### Primary Sources
 
-LinkdIn:
-https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/
-
-YouTube: https://www.youtube.com/watch?v=AqAoKGftsSE
-
-
-YouTube: https://www.youtube.com/watch?v=jQXvbeYF5go
+LinkdIn: AI-SEO Is A Change Management Problem
+YouTube: Moving Beyond Old SEO Models in the Age of AI | Kevin Indig
+Other: Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)
 
 Areas of Expertise:
 
@@ -49,11 +45,11 @@ Eli Schwartz is one of the leading authorities on Product-Led SEO and modern org
 * Content Strategy
 * International SEO
 
-### Research Materials Collected
+### Research Sources
 
-1. Who Should You Hire for AEO? (LinkedIn rticle)
-2. Product-Led SEO in the AI Era (Podcast)
-3. Future of SEO and AI (YouTube Interview)
+1. LinkedIn: Who Should You Hire for AEO? 
+2. Other: Product-Led SEO in the AI Era
+3. YouTube: Future of SEO and AI 
 
 ### Key Themes Identified
 
@@ -77,8 +73,8 @@ Eli Schwartz is one of the leading authorities on Product-Led SEO and modern org
 
 ### Research Materials Collected
 
-1. LinkedIn Post - AI Skills and Knowledge Gaps
-2. LinkedIn Post - What If The Best GEO Strategy Is The One You Stopped Investing In?
+1. LinkedIn: AI Skills and Knowledge Gaps
+2. LinkedIn: What If The Best GEO Strategy Is The One You Stopped Investing In?
 3. YouTube: The SEO Industry Is Obsessed With The Wrong AI Metric
 
 ### Key Themes Identified
@@ -116,9 +112,9 @@ Ross Simmonds is one of the leading voices in content distribution, brand amplif
 
 ### Research Materials Collected
 
-1. Branded vs Unbranded AI Citations
-2. Content Distribution in the Age of AI
-3. AI Agents Are Reshaping SEO Work
+1. LinkedIn: Branded vs Unbranded AI Citations
+2. YouTube: Content Distribution in the Age of AI
+3. Other: AI Agents Are Reshaping SEO Work
 
 ### Research Status
 
@@ -134,17 +130,6 @@ Ross Simmonds is one of the leading voices in content distribution, brand amplif
 
 Amanda Natividad is one of the leading voices in Zero-Click Marketing, audience development, and AI-era content strategy. Her work focuses on helping brands build visibility, authority, and trust in environments where users increasingly consume information without clicking through to websites. Her perspective is particularly valuable because she argues that successful AI optimization is largely an extension of strong marketing fundamentals rather than a completely new discipline.
 
-### Primary Sources
-
-LinkedIn:
-https://www.linkedin.com/in/amandanat/
-
-Newsletter:
-https://amandanat.substack.com
-
-Organization:
-SparkToro
-
 ### Areas of Expertise
 
 * Zero-Click Marketing
@@ -157,9 +142,9 @@ SparkToro
 
 ### Research Materials Collected
 
-1. AI Optimization Is Mostly Just Good Marketing (LinkedIn Post + Newsletter Article)
-2. GEO: The SEO Strategy That Actually Works When AI Search Changes Everything
-3. [Reserved for Third Amanda Source]
+1. LinkedIn: AI Optimization Is Mostly Just Good Marketing 
+2. YouTube: GEO: The SEO Strategy That Actually Works When AI Search Changes Everything
+3. YouTube: Zero-Click Marketing and Audience Development
 
 ### Key Themes Identified
 
@@ -202,9 +187,9 @@ Tom Critchlow is one of the leading strategic thinkers in AI search, brand perce
 
 ### Research Materials Collected
 
-1. Why AI Search Matters
-2. Share of Model and AI Brand Visibility
-3. SEO in the AI Era
+1. Other: Why AI Search Matters
+2. LinkedIn: Share of Model and AI Brand Visibility
+3. YouTube: SEO in the AI Era
 
 ### Key Themes Identified
 
@@ -245,9 +230,9 @@ Bernard Huang is the co-founder of Clearscope and one of the leading voices on A
 
 ### Research Materials Collected
 
-1. SEO AI Optimization Is About Intelligence
-2. The Long Long Tail Is Here
-3. [Reserved for Third Bernard Source]
+1. LinkedIn: SEO AI Optimization Is About Intelligence
+2. LinkedIn: The Long Long Tail Is Here
+3. YouTube: AI‑driven SEO revolution
 
 ### Key Themes Identified
 
