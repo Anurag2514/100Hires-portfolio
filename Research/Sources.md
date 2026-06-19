@@ -289,9 +289,9 @@ Cindy Krum is one of the most influential voices in mobile-first indexing, entit
 
 ### Research Materials Collected
 
-1. Google's AI Search Journeys Are Reshaping SEO
-2. [Reserved for Second Cindy Source]
-3. [Reserved for Third Cindy Source]
+1. Other: Google's AI Search Journeys Are Reshaping SEO
+2. LinkedIn: AI SEO, Entity SEO & Brand Discovery Interview
+3. Other: Video SEO Is The Shortcut To AI Visibility
 
 ### Key Themes Identified
 
@@ -311,5 +311,5 @@ Cindy Krum argues that AI search is shifting optimization away from individual k
 
 * [x] Expert Profile Created
 * [x] Source 1 Analysis Completed
-* [ ] Source 2 Analysis Completed
-* [ ] Source 3 Analysis Completed
+* [x] Source 2 Analysis Completed
+* [x] Source 3 Analysis Completed
