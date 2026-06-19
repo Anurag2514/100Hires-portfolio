@@ -360,3 +360,50 @@ Mike King argues that AI search requires a shift from traditional SEO toward rel
 * [x] Source 2 Analysis Completed
 * [x] Source 3 Analysis Completed
 * [x] Comparative Insights Added
+
+
+## Expert 10: Lily Ray
+
+### Why Selected
+
+Lily Ray is one of the most influential voices in modern SEO and is widely recognized for her expertise in E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness). Her recent work focuses on how AI search systems evaluate content credibility, brand authority, and trust signals in an increasingly AI-driven search landscape.
+
+### Areas of Expertise
+
+* E-E-A-T
+* AI Search
+* GEO
+* Brand Authority
+* Content Quality
+* Search Quality
+* AI Citations
+* Trust Signals
+
+### Research Materials Collected
+
+1. LinkedIn: A Reflection on SEO and AI Search
+2. YouTube: Lily Ray on the AI Search Tactics That Will Bite You Later
+3. Other: Lily Ray on AI Search, GEO, E-E-A-T & Original Research
+
+### Key Themes Identified
+
+* E-E-A-T
+* Trust Signals
+* Brand Authority
+* AI Search
+* GEO
+* Content Credibility
+* AI Citations
+* Search Evolution
+
+### Key Insight
+
+Lily Ray argues that AI search does not eliminate the importance of authority and trust. Instead, AI systems amplify the value of credible brands, expert content, and strong reputation signals because AI models increasingly rely on trusted sources when generating answers.
+
+### Research Status
+
+* [x] Expert Profile Created
+* [x] Source 1 Analysis Completed
+* [x] Source 2 Analysis Completed
+* [x] Source 3 Analysis Completed
+* [x] Comparative Insights Added
