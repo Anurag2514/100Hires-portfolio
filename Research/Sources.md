@@ -334,9 +334,10 @@ Mike King is the Founder and CEO of iPullRank and one of the leading experts on 
 
 ### Research Materials Collected
 
-1. How AI Mode Works and How SEO Can Prepare for It
-2. 24 Ways To Use AI Tools For SEO
-3. [Reserved for Third Mike King Source]
+1. Other: How AI Mode Works and How SEO Can Prepare for It
+2. Other: 24 Ways To Use AI Tools For SEO
+3. YouTube: Relevance Engineering and the Future of AI SEO
+
 
 ### Key Themes Identified
 
@@ -356,6 +357,6 @@ Mike King argues that AI search requires a shift from traditional SEO toward rel
 
 * [x] Expert Profile Created
 * [x] Source 1 Analysis Completed
-* [ ] Source 2 Analysis Completed
-* [ ] Source 3 Analysis Completed
-* [ ] Comparative Insights Added
+* [x] Source 2 Analysis Completed
+* [x] Source 3 Analysis Completed
+* [x] Comparative Insights Added
