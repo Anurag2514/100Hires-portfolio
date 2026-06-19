@@ -225,3 +225,47 @@ Tom Critchlow argues that AI search is transforming search engines into recommen
 - [x] Source 1 Analysis Completed
 - [x] Source 2 Analysis Completed
 - [x] Source 3 Analysis Completed
+
+
+## Expert 7: Bernard Huang
+
+### Why Selected
+
+Bernard Huang is the co-founder of Clearscope and one of the leading voices on AI-driven search, semantic authority, and content intelligence. His work focuses on how AI systems understand information and how organizations can improve discoverability through expertise, context, and topical relevance.
+
+### Areas of Expertise
+
+* AI Search
+* Semantic Authority
+* Content Intelligence
+* Knowledge Representation
+* Search Evolution
+* AI Discoverability
+* Content Strategy
+
+### Research Materials Collected
+
+1. SEO AI Optimization Is About Intelligence
+2. The Long Long Tail Is Here
+3. [Reserved for Third Bernard Source]
+
+### Key Themes Identified
+
+* AI Understanding
+* Semantic Authority
+* Content Intelligence
+* Knowledge Graphs
+* AI Discoverability
+* Search Evolution
+
+### Key Insight
+
+Bernard Huang argues that AI optimization is fundamentally about helping AI systems understand expertise, authority, and context. Future search success will depend less on rankings and more on whether AI systems recognize a brand as a trusted source of knowledge.
+
+### Research Status
+
+* [x] Expert Profile Created
+* [x] Source 1 Analysis Completed
+* [ ] Source 2 Analysis Completed
+* [ ] Source 3 Analysis Completed
+* [ ] Comparative Insights Added
