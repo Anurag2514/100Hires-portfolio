@@ -313,3 +313,49 @@ Cindy Krum argues that AI search is shifting optimization away from individual k
 * [x] Source 1 Analysis Completed
 * [x] Source 2 Analysis Completed
 * [x] Source 3 Analysis Completed
+
+
+
+## Expert 9: Mike King
+
+### Why Selected
+
+Mike King is the Founder and CEO of iPullRank and one of the leading experts on AI search systems, relevance engineering, and technical SEO. His work focuses on understanding how AI search engines retrieve, interpret, and synthesize information, helping marketers adapt to AI-driven search experiences.
+
+### Areas of Expertise
+
+* AI Search
+* Relevance Engineering
+* AI Mode
+* Query Fan-Out
+* Information Retrieval
+* Technical SEO
+* AI Content Systems
+
+### Research Materials Collected
+
+1. How AI Mode Works and How SEO Can Prepare for It
+2. 24 Ways To Use AI Tools For SEO
+3. [Reserved for Third Mike King Source]
+
+### Key Themes Identified
+
+* Relevance Engineering
+* AI Mode
+* Query Fan-Out
+* AI Retrieval Systems
+* Multimodal Search
+* AI Citations
+* Content Engineering
+
+### Key Insight
+
+Mike King argues that AI search requires a shift from traditional SEO toward relevance engineering. Success depends on understanding how AI systems retrieve, evaluate, and synthesize information rather than simply optimizing for rankings.
+
+### Research Status
+
+* [x] Expert Profile Created
+* [x] Source 1 Analysis Completed
+* [ ] Source 2 Analysis Completed
+* [ ] Source 3 Analysis Completed
+* [ ] Comparative Insights Added
